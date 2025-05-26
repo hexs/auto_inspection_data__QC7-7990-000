@@ -2,7 +2,6 @@
 .idea/
 **/__pycache__/**
 
-model/
 img_frame/
 
 **.zip
